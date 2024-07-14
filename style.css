@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+.container {
+font-size: 60px;
+border : 3px solid black ;
+text-align: center;
+background-color: rgb(77, 30, 30);
+margin:20px;
+display:inline-block;
+}
+button{
+    background-color: aqua;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 30px;
+    cursor:pointer;
+}
+#input{
+    height:50px;
+    width:190px;
+    background-color: aquamarine ;
+}

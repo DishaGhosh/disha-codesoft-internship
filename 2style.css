@@ -1,0 +1,50 @@
+header{
+    font-size: larger;
+    padding: 30px;
+}
+#logo{
+    color: rgb(83, 15, 72);
+}
+h2{
+    color:green;
+}
+body{
+    background-color: rgb(194, 135, 144);
+}
+#box{
+    background-image:url(girl.jpg);
+    height:300px;
+    width:300px;
+    float:left;
+    background-size: cover;
+    padding-left: 80px;
+    margin:70px;
+    color: black;
+}
+.container{
+    text-align:center;
+}
+.about-contain{
+    padding-left: 4px;
+    margin: 4px;
+}
+footer{
+    font-size: larger;
+    text-decoration: none;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+#skills{
+    text-decoration: none;
+    text-align: center;
+}
+.abs{
+     color:rgb(14, 75, 75);
+     text-decoration:  none;
+}
+.about-article{
+    color:rgb(39, 12, 65);
+}
+
+
+
